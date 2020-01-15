@@ -51,6 +51,7 @@ yag.send(to=receiver_email,subject=subject,contents=contents)
 
 ### -- email testing end -- ###
 
+print("The solution has been succesfully sent to the given E-Mail.")
 
 
 
